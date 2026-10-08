@@ -1,7 +1,7 @@
 # Hi, I'm Tejas Dumpeta 👋
 
 I'm a **Software Engineer** and Computer Science graduate from the **University of Michigan**. I specialize in building **real-time backend systems**, **event-driven data pipelines**, and **interactive full-stack applications**.
-
+---
 I enjoy taking ambiguous technical problems and turning them into reliable, production-ready software that delivers real impact for operations.
 ---
 
