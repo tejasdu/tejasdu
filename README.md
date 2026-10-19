@@ -15,11 +15,11 @@ I enjoy taking ambiguous technical problems and turning them into reliable, prod
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** Python, TypeScript, JavaScript, C++, Go, SQL, HTML/CSS
+- **Languages:** Python, TypeScript, JavaScript, C++, SQL
 - **Backend & Systems:** FastAPI, Node.js, Express, WebSockets, REST APIs, Microservices
 - **Frontend:** React, Next.js, React Native, Tailwind CSS
 - **Data & Databases:** PostgreSQL, Supabase, Redis, ETL Pipelines
-- **Cloud & DevOps:** Docker, OCI, AWS, Azure, Nginx, Linux, Git / GitHub Actions
+- **Cloud & DevOps:** Docker, OCI, AWS, Azure, Nginx, Git / GitHub Actions
 
 ### 📬 Connect With Me
 
