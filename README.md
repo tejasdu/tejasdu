@@ -9,7 +9,7 @@ I enjoy taking ambiguous technical problems and turning them into reliable, prod
 
 - 🔭 **Currently Building:** High-throughput backend services and real-time streaming architectures.
 - 🏎️ **Recent Project:** [F1 Pitwall Telemetry Engine](https://pitwall-f1.live/) — streaming 60 FPS telemetry across 20 race cars via WebSockets.
-- 🌱 **Core Interests:** Distributed Systems, Real-Time WebSockets, API Architecture, Cloud Infrastructure.
+- **Core Interests:** Real-Time WebSockets, API Architecture, Cloud Infrastructure.
 
 ---
 
